@@ -1,6 +1,6 @@
-# 📰 NewsWave - React News App
+# 📰 News Wave - React News App
 
-**NewsWave** is a responsive news web application built using React and a NewsAPI. It allows users to browse top headlines from various categories and switch between countries using a dropdown with flags.
+**News Wave** is a responsive news web application built using React and a NewsAPI. It allows users to browse top headlines from various categories and switch between countries using a dropdown with flags.
 
 ## 🌐 Features
 
@@ -16,7 +16,6 @@
 - React Router v6
 - Bootstrap 5 & Bootstrap Icons
 - NewsAPI : https://saurav.tech/NewsAPI/top-headlines/category/general/in.json
-- Country flag API: [flagsapi.com](https://flagsapi.com)
 
 ## ⚙️ How It Works
 
